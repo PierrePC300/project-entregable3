@@ -1,0 +1,45 @@
+body{
+/*
+    background: #195808;  
+    background: -webkit-linear-gradient(to top, #0b2502, #175307); 
+    background: linear-gradient(to top, #0b2502, #175307); 
+    */
+    background-image: url("/img/bg1.png");
+    color: #F5F5F5;
+}
+
+
+.detalle1{
+
+color: #938686;
+
+}
+
+.relative, .absolute{
+    border: 2px solid #8EFF8B;
+    border-radius: 0px;
+}
+.titulo{
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #8EFF8B;
+}
+
+
+#locationId{
+ background-color: rgb(34, 32, 32);
+ height: 2.5em;
+ width: 45%;
+}
+
+.buscador{
+height: 2.5em;
+width: auto;
+background: rgba(142, 255, 139, 0.5);
+border: 2px solid #8EFF8B;
+}
